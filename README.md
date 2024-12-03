@@ -8,15 +8,15 @@ Keen on learning and adapting to new technologies, I'm looking for projects that
 creative and eﬃcient solutions, foster teamwork, and allow me to collaborate in agile environments while
 continuing to grow professionally.
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soydz&layout=compact" alt="Harlok's WakaTime stats">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soydz&layout=compact" alt="Harlok's WakaTime stats">
     </a>
   </div>
-  <div >
+  <div align="right">
     <a target="_blank">
-      <img align="right" style="border-radius:7px" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+      <img style="border-radius:7px" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
     </a>
   </div>
 </div>
